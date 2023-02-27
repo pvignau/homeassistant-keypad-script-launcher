@@ -1,0 +1,7 @@
+# Dependencies can be added here
+# To learn the format of this file, check https://pip.pypa.io/en/stable/reference/requirements-file-format/
+
+# Example dependencies are added below:
+
+getch == 1.0
+requests == 2.28
